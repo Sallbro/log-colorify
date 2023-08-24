@@ -1,12 +1,24 @@
 {
   "name": "log-colorify",
   "version": "1.0.0",
-  "description": "",
+  "description": "colorify yout log messages",
   "main": "index.js",
+  "module": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sallbro/log-colorify.git"
+  },
+  "homepage": "https://github.com/Sallbro/log-colorify.git#readme",
+  "bugs": {
+    "url": "https://github.com/Sallbro/log-colorify.git/issues"
+  },
+  "keywords": [
+    "log-colorify",
+    "custom-colorify"
+  ],
+  "author": "Sallbro <asusalman986@gmail.com>",
+  "license": "MIT"
 }
