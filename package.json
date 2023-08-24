@@ -19,6 +19,9 @@
     "log-colorify",
     "custom-colorify"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "Sallbro <asusalman986@gmail.com>",
   "license": "MIT"
 }
