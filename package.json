@@ -1,7 +1,7 @@
 {
   "name": "log-colorify",
   "version": "1.0.0",
-  "description": "colorify yout log messages",
+  "description": "colorify your log messages",
   "main": "index.js",
   "module": "",
   "scripts": {
@@ -22,6 +22,6 @@
   "files": [
     "index.js"
   ],
-  "author": "Sallbro <asusalman986@gmail.com>",
+  "author": "sallbro <asusalman986@gmail.com>",
   "license": "MIT"
 }
