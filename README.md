@@ -1,6 +1,8 @@
 # log-colorify
 > step to install package
-- npm i @sallbro/log-colorify
+```
+npm i @sallbro/log-colorify
+```
 -----
 > how to use 
 ```
