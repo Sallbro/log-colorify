@@ -1,11 +1,11 @@
 {
-  "name": "log-colorify",
+  "name": "@sallbro/log-colorify",
   "version": "1.0.0",
   "description": "colorify your log messages",
   "main": "index.js",
   "module": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
