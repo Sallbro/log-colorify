@@ -2,7 +2,6 @@
 var Log = (function () {
     // success
     Log.success = function (message) {
-        console.log("%c ".concat(message), 'color:green');
         console.log("%c salman", 'color:green');
 
     }
